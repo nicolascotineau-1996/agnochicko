@@ -28,19 +28,19 @@
             }
           ],
           "samples": [
-            "un fait",
-            "un fait {factType}",
-            "dis moi un fait",
-            "dites-moi un fait {factType}",
-            "donne moi un fait",
-            "dis-moi des anecdotes",
-            "dites-moi une anecdote {factType}",
-            "donne moi des anecdotes",
-            "donnez-moi une anecdote {factType}",
-            "donne moi des infos",
-            "donnez-moi des informations {factType}",
-            "dis moi quelque chose",
-            "donne moi quelque chose"
+            "a fact",
+            "a {factType} fact",
+            "tell me a fact",
+            "tell me a {factType} fact",
+            "give me a fact",
+            "tell me trivia",
+            "tell me a {factType} trivia",
+            "give me trivia",
+            "give me a {factType} trivia",
+            "give me some information",
+            "give me some {factType} information",
+            "tell me something",
+            "give me something"
           ]
         },
         {
@@ -56,12 +56,12 @@
             }
           ],
           "samples": [
-            "ajouter {factType} comme nouveau sujet",
-            "enregistrer {factType} en tant que nouveau sujet",
-            "ajouter {factType} comme sujet favori",
-            "enregistrer {factType} comme sujet favori",
-            "ajouter {factType} comme sujet de fait favori",
-            "enregistrer {factType} en tant que sujet de fait préféré"
+            "add {factType} as a new topic",
+            "save {factType} as a new topic",
+            "add {factType} as favorite topic",
+            "save {factType} as favorite topic",
+            "add {factType} as a favorite fact topic",
+            "save {factType} as a favorite fact topic"
           ]
         }
       ],
@@ -71,12 +71,12 @@
           "values": [
             {
               "name": {
-                "value": "Espace"
+                "value": "Space"
               }
             },
             {
               "name": {
-                "value": "Football"
+                "value": "Soccer"
               }
             },
             {

@@ -28,19 +28,19 @@
             }
           ],
           "samples": [
-            "un fait",
-            "un fait {factType}",
-            "dis moi un fait",
-            "dites-moi un fait {factType}",
-            "donne moi un fait",
-            "dis-moi des anecdotes",
-            "dites-moi une anecdote {factType}",
-            "donne moi des anecdotes",
-            "donnez-moi une anecdote {factType}",
-            "donne moi des infos",
-            "donnez-moi des informations {factType}",
-            "dis moi quelque chose",
-            "donne moi quelque chose"
+            "事実",
+            "{factType}ファクト",
+            "事実を教えてください",
+            "{factType} の事実を教えてください",
+            "私に事実を教えてください",
+            "雑学クイズを教えて",
+            "{factType} の雑学クイズを教えてください",
+            "雑学クイズをください",
+            "{factType} の雑学クイズをください",
+            "情報を教えてください",
+            "{factType} 情報を教えてください",
+            "何か教えて",
+            "何か私にください"
           ]
         },
         {
@@ -56,12 +56,12 @@
             }
           ],
           "samples": [
-            "ajouter {factType} comme nouveau sujet",
-            "enregistrer {factType} en tant que nouveau sujet",
-            "ajouter {factType} comme sujet favori",
-            "enregistrer {factType} comme sujet favori",
-            "ajouter {factType} comme sujet de fait favori",
-            "enregistrer {factType} en tant que sujet de fait préféré"
+            "新しいトピックとして {factType} を追加します",
+            "{factType} を新しいトピックとして保存します",
+            "{factType} をお気に入りのトピックとして追加",
+            "{factType} をお気に入りのトピックとして保存する",
+            "{factType} をお気に入りのファクトトピックとして追加します",
+            "{factType} をお気に入りのファクトトピックとして保存する"
           ]
         }
       ],
@@ -71,17 +71,17 @@
           "values": [
             {
               "name": {
-                "value": "Espace"
+                "value": "スペース"
               }
             },
             {
               "name": {
-                "value": "Football"
+                "value": "フットボール"
               }
             },
             {
               "name": {
-                "value": "Football"
+                "value": "フットボール"
               }
             }
           ]

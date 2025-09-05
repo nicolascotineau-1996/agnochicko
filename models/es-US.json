@@ -28,19 +28,19 @@
             }
           ],
           "samples": [
-            "un fait",
-            "un fait {factType}",
-            "dis moi un fait",
-            "dites-moi un fait {factType}",
-            "donne moi un fait",
-            "dis-moi des anecdotes",
-            "dites-moi une anecdote {factType}",
-            "donne moi des anecdotes",
-            "donnez-moi une anecdote {factType}",
-            "donne moi des infos",
-            "donnez-moi des informations {factType}",
-            "dis moi quelque chose",
-            "donne moi quelque chose"
+            "un hecho",
+            "una {factType} hecho",
+            "Dime una hecho",
+            "Dime una {factType} hecho",
+            "dame un hecho",
+            "dime trivia",
+            "Dime una {factType} trivia",
+            "dame trivia",
+            "dame una {factType} trivia",
+            "dame algo de información",
+            "dame algo de {factType} información",
+            "Dime algo",
+            "Dame algo"
           ]
         },
         {
@@ -56,12 +56,12 @@
             }
           ],
           "samples": [
-            "ajouter {factType} comme nouveau sujet",
-            "enregistrer {factType} en tant que nouveau sujet",
-            "ajouter {factType} comme sujet favori",
-            "enregistrer {factType} comme sujet favori",
-            "ajouter {factType} comme sujet de fait favori",
-            "enregistrer {factType} en tant que sujet de fait préféré"
+            "agregue {factType} como un tema nuevo",
+            "guardar {factType} como un tema nuevo",
+            "agrega {factType} como tema favorito",
+            "guardar {factType} como tema favorito",
+            "agregue {factType} como un tema de hechos favorito",
+            "guardar {factType} como un tema de hechos favorito"
           ]
         }
       ],
@@ -71,17 +71,17 @@
           "values": [
             {
               "name": {
-                "value": "Espace"
+                "value": "Espacio"
               }
             },
             {
               "name": {
-                "value": "Football"
+                "value": "Fútbol"
               }
             },
             {
               "name": {
-                "value": "Football"
+                "value": "Fútbol"
               }
             }
           ]
